@@ -56,6 +56,9 @@
 
 ## 🧠 About Me
 
+<details>
+<summary>Click to expand</summary>
+
 ```yaml
 name: Hatem Almanzalawy
 title: Full-stack Developer
