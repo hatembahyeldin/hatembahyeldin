@@ -6,8 +6,9 @@
 
 <!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Passionate+about+clean+code+%26+great+UX.;Flutter+%2B+Laravel+%2B+Python+is+my+superpower.;Always+learning+something+new!;Let%27s+build+awesome+apps+together." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Passionate+about+clean+code+%26+great+UX.;Flutter+%2B+Laravel+%2B+Python+is+my+superpower.;Always+learning+something+new!;Let%27s+build+awesome+apps+together." alt="Typing SVG" />
 </p>
+
 ---
 
 ## 🔧 Tech Stack
