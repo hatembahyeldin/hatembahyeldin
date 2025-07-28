@@ -11,12 +11,10 @@
 
 ---
 
-## 🏅 Achievements  
+## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/hatembahyeldin?style=for-the-badge&logo=github&color=yellow" />
-  <img src="https://img.shields.io/github/followers/hatembahyeldin?style=for-the-badge&logo=github&color=blue" />
-  <img src="https://img.shields.io/github/repos/hatembahyeldin?style=for-the-badge&logo=github&color=green" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hatembahyeldin&theme=gruvbox&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
