@@ -6,7 +6,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=2ECC71&center=true&vCenter=true&width=650&lines=Passionate+about+clean+code+%26+great+UX.;Flutter+%2B+Laravel+%2B+Python+is+my+superpower.;Jupyter+Notebook+for+data+analysis.;Always+learning+something+new!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=2ECC71&center=true&vCenter=true&width=650&lines=Passionate+about+clean+code+%26+great+UX.;Flutter+%2B+Laravel+%2B+Python+is+my+superpower.;Jupyter+Notebook+for+data+analysis.;Always+learning+something+new!" alt="Typing Animation" />
 </p>
 
 ---
@@ -22,8 +22,8 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working with **Flutter, Laravel, Python & Jupyter Notebook**  
-- 🌱 Exploring **Clean Architecture & Firebase Auth**  
+- 🔭 Working with **Flutter, Laravel, Python & Jupyter Notebook**  
+- 🌱 Exploring **Clean Architecture & Firebase**  
 - 💬 Ask me about **Full-Stack Development**  
 - ⚡ Fun fact: **I convert coffee ☕ into clean code**
 
@@ -53,25 +53,10 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hatembahyeldin&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 📊 Most Used Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatembahyeldin&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-73.8%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-11.8%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CSS-5.9%25-264DE4?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-5.9%25-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-2.4%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatembahyeldin&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=6" width="48%"/>
 </p>
 
 ---
@@ -88,12 +73,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hatembahyeldin&theme=react-dark&hide_border=true&bg_color=0D1117&color=2ECC71&line=2ECC71&point=FFFFFF" width="95%"/>
 </p>
-
----
-
-## 🔄 Latest Activity  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
