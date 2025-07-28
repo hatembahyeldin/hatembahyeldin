@@ -39,8 +39,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hatembahyeldin&theme=merko&hide_border=true&border_radius=10" width="48%"/>
 </p>
 
+---
+
+## 📊 Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatembahyeldin&layout=compact&theme=merko&hide_border=true&border_radius=10" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatembahyeldin&langs_count=8&layout=compact&theme=merko&hide_border=true&border_radius=10" width="50%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
 </p>
 
 ---
@@ -78,4 +86,4 @@ learning:
   - Flutter animations & custom painters
   - CI/CD for mobile apps
   - Python for automation and APIs
-  - Jupyter for data visualization
+  - Jupyter for data visualization & reports
