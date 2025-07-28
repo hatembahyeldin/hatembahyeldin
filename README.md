@@ -1,4 +1,4 @@
-<!-- Header Title -->
+<!-- Header -->
 <h1 align="center">Hi there 👋, I'm Hatem Almanzalawy</h1>
 <p align="center">
   <em>Full-Stack Developer • Flutter, Laravel & Python Specialist • Open Source Contributor</em>
@@ -6,7 +6,17 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Passionate+about+clean+code+%26+great+UX.;Flutter+%2B+Laravel+%2B+Python+is+my+superpower.;Jupyter+Notebook+for+data+analysis.;Always+learning+something+new!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=2ECC71&center=true&vCenter=true&width=650&lines=Passionate+about+clean+code+%26+great+UX.;Flutter+%2B+Laravel+%2B+Python+is+my+superpower.;Jupyter+Notebook+for+data+analysis.;Always+learning+something+new!" alt="Typing Animation" />
+</p>
+
+---
+
+## 🏅 Achievements  
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/hatembahyeldin?style=for-the-badge&logo=github&color=yellow" />
+  <img src="https://img.shields.io/github/followers/hatembahyeldin?style=for-the-badge&logo=github&color=blue" />
+  <img src="https://img.shields.io/github/repos/hatembahyeldin?style=for-the-badge&logo=github&color=green" />
 </p>
 
 ---
@@ -50,7 +60,29 @@
 
 ---
 
+## 📌 Pinned Projects  
+
+<p align="center">
+  <a href="https://github.com/hatembahyeldin/facebook_clone_fixed">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatembahyeldin&repo=facebook_clone_fixed&theme=radical&border_radius=10" />
+  </a>
+  <a href="https://github.com/hatembahyeldin/MedTime">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatembahyeldin&repo=MedTime&theme=radical&border_radius=10" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/hatembahyeldin/laravel_crud">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatembahyeldin&repo=laravel_crud&theme=radical&border_radius=10" />
+  </a>
+  <a href="https://github.com/hatembahyeldin/python-session4-tasks">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatembahyeldin&repo=python-session4-tasks&theme=radical&border_radius=10" />
+  </a>
+</p>
+
+---
+
 ## 📊 Most Used Languages  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatembahyeldin&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8" width="48%"/>
 </p>
@@ -77,6 +109,16 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hatembahyeldin&theme=react-dark&hide_border=true&bg_color=0D1117&color=2ECC71&line=2ECC71&point=FFFFFF" width="95%"/>
 </p>
+
+---
+
+## 🔄 Latest Activity  
+<!--START_SECTION:activity-->
+1. 📝 Latest commit to **facebook_clone_fixed**
+2. 🚀 Pushed new changes to **MedTime**
+3. 🐛 Fixed bugs in **laravel_crud**
+4. ✨ Updated **python-session4-tasks**
+<!--END_SECTION:activity-->
 
 ---
 
