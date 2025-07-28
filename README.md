@@ -60,27 +60,6 @@
 
 ---
 
-## 📌 Pinned Projects  
-
-<p align="center">
-  <a href="https://github.com/hatembahyeldin/facebook_clone_fixed">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatembahyeldin&repo=facebook_clone_fixed&theme=radical&border_radius=10" />
-  </a>
-  <a href="https://github.com/hatembahyeldin/MedTime">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatembahyeldin&repo=MedTime&theme=radical&border_radius=10" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/hatembahyeldin/laravel_crud">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatembahyeldin&repo=laravel_crud&theme=radical&border_radius=10" />
-  </a>
-  <a href="https://github.com/hatembahyeldin/python-session4-tasks">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatembahyeldin&repo=python-session4-tasks&theme=radical&border_radius=10" />
-  </a>
-</p>
-
----
-
 ## 📊 Most Used Languages  
 
 <p align="center">
@@ -114,10 +93,6 @@
 
 ## 🔄 Latest Activity  
 <!--START_SECTION:activity-->
-1. 📝 Latest commit to **facebook_clone_fixed**
-2. 🚀 Pushed new changes to **MedTime**
-3. 🐛 Fixed bugs in **laravel_crud**
-4. ✨ Updated **python-session4-tasks**
 <!--END_SECTION:activity-->
 
 ---
